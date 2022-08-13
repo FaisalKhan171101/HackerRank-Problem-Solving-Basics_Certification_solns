@@ -1,4 +1,4 @@
-# HackerRank-Problem-Solving-Basics_Certification_solns
+# HackerRank-Problem-Solving-Basics_Certification_Solutions
 
 # Disclaimer
 
