@@ -26,3 +26,5 @@ The following is an incomplete list of possible problems per certificate as of 2
     - [Vowel Substring](certificates/problem-solving-basic/vowel-substring)
     
 Besides the solutions, there are Python 3 and C++ code stubs and some test cases so you can first try to solve the problems without time pressure if you want to.
+
+© 2022 Faisal Khan, Presidency University
